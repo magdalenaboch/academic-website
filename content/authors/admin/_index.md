@@ -47,6 +47,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:magdalena.boch@univie.ac.at?subject=inquiry'
+
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/magdalenaboch
@@ -62,6 +63,10 @@ social:
 - icon: orchid
   icon_pack: fab
   link: https://orcid.org/0000-0003-3627-5180
+
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/d7m3g/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
