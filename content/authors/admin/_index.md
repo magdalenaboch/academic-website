@@ -6,15 +6,15 @@ title: Magdalena Boch
 superuser: true
 
 # Role/position/tagline
-role: comparative social neuroscientist and psychologist about to wrap up her PhD.
+role: comparative social neuroscientist and psychologist.
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Vienna
   url: https://scan-psy.univie.ac.at/
 
-#- name: Comparative Canine Neuroimaging Unit
-#  url: https://ccnu.univie.ac.at/
+- name: University of Oxford
+  url: http://www.rbmars.dds.nl/lab.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ...
