@@ -13,8 +13,8 @@ organizations:
 - name: University of Vienna
   url: https://scan-psy.univie.ac.at/
 
-- name: Comparative Canine Neuroimaging Unit
-  url: https://ccnu.univie.ac.at/
+#- name: Comparative Canine Neuroimaging Unit
+#  url: https://ccnu.univie.ac.at/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ...
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:magdalena.boch@univie.ac.at?subject=inquiry)'
+  link: 'mailto:magdalena.boch@univie.ac.at?subject=inquiry'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/magdalenaboch
