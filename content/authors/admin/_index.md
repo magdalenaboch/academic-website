@@ -50,12 +50,18 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/magdalenaboch
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.at/citations?user=-3iMARMAAAAJ&hl=de
+
 - icon: github
   icon_pack: fab
   link: https://github.com/magdalenaboch
+
+- icon: orchid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-3627-5180
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
