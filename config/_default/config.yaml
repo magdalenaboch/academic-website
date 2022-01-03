@@ -5,7 +5,7 @@
 
 title: Magdalena Boch # Website name
 baseurl: 'https://focused-ritchie-6e2022.netlify.app/' # Website URL
-copyright: '© {2022} Magdalena Boch' # Footer text, e.g. '© {year} Me'
+copyright: '© Magdalena Boch' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
