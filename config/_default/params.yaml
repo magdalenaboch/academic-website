@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: magdalena.boch[at]univie.ac.at
+#email: magdalena.boch[at]univie.ac.at
 #phone: 888 888 88 88
 #address:
   #street: 450 Serra Mall
@@ -40,7 +40,7 @@ coordinates:
 contact_links:
   - icon: envelope
     icon_pack: email me
-    link: 'mailto:magdalena.boch@univie.ac.at?subject=inquiry)'
+    link: 'mailto:magdalena.boch@univie.ac.at?subject=inquiry'
   - icon: twitter
     icon_pack: fab
     name: DM me

@@ -21,18 +21,18 @@ bio: My research interests include ...
 
 # Interests to show in About widget
 interests:
-- comparative neuroimaing
+- non-invasive comparative neuroimaging
 - social cognition
+- evolution of the social brain
 - visual perception
-- brain evolution
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Psychology
+  - course: PhD in Psychology 
     institution: University of Vienna
     year: ongoing
-  - course: MSc in Psychology (summa cum laude)
+  - course: MSc in Psychology (summa cum laude) 
     institution: University of Vienna
     year: 2017
   - course: BSc in Psychology
@@ -82,8 +82,6 @@ email: ""
 highlight_name: true
 ---
 
-Magdalena is a PhD candidate at the Social Cognitive and Affective Neuroscience Unit at the University of Vienna. Her research interests include ....
+I am a PhD student at the Social Cognitive and Affective Neuroscience Unit at the University of Vienna and currently a visiting researcher at the Cognitive Neuroecology lab at the University of Oxford. My PhD research focuses on the neural bases of how dogs and humans perceive and understand each other and the evolution of the social brain.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.

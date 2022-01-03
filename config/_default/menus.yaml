@@ -19,7 +19,7 @@ main:
   - name: Outreach
     url: '#outreach'
     weight: 50
-  - name: Brain sketches
+  - name: Brain Sketches
     url: '#brains'
     weight: 60
   - name: Trivia
