@@ -30,8 +30,8 @@ twitter: ''
   #country: United States
   #country_code: US
 coordinates:
-  #latitude: '37.4275'
-  #longitude: '-122.1697'
+  latitude: '51.764570'
+  longitude: '-1.221290'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
   #- 'Monday 10:00 to 13:00'
@@ -39,11 +39,10 @@ coordinates:
 #appointment_url: 'https://calendly.com'
 contact_links:
   - icon: envelope
-    icon_pack: email me
+    icon_pack: fab
     link: 'mailto:magdalena.boch@univie.ac.at?subject=inquiry'
   - icon: twitter
     icon_pack: fab
-    name: DM me
     link: 'https://twitter.com/magdalenaboch'
   #- icon: skype
     #icon_pack: fab
