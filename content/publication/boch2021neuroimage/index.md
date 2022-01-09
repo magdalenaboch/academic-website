@@ -1,5 +1,5 @@
 ---
-title: "Tailored haemodynamic response function increases detection power of fMRI in awake dogs (*Canis familiaris*)"
+title: "Tailored haemodynamic response function increases detection power of fMRI in awake dogs (Canis familiaris)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -60,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [Boch et al. 2021, Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811920308995?via%3Dihub#sec0028)'
   focal_point: ""
   preview_only: false
 
