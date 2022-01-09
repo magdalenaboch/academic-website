@@ -17,7 +17,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: ""
+date: "2021-01-01T00:00:00Z"
 doi: "10.1016/j.neuroimage.2020.117414"
 
 # Schedule page publish date (NOT publication's date).
@@ -38,7 +38,7 @@ abstract: Functional magnetic resonance imaging (fMRI) of awake and unrestrained
 # Summary. An optional shortened abstract.
 summary:  #signal peaked earlier in dogs than predicted by the human HRF.
 
-tags: []
+tags: [dog, cognition, vision, fMRI, haemodynamic response function (HRF)]
 
 # Display this page in the Featured widget?
 featured: false
