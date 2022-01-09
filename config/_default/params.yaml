@@ -39,11 +39,11 @@ coordinates:
 #appointment_url: 'https://calendly.com'
 contact_links:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     name: email me
     link: 'mailto:magdalena.boch@univie.ac.at?subject=inquiry'
   - icon: twitter
-    icon_pack: fas
+    icon_pack: fab
     name: DM me
     link: 'https://twitter.com/magdalenaboch'
   #- icon: skype
