@@ -84,4 +84,4 @@ highlight_name: true
 
 I am a PhD student at the Social Cognitive and Affective Neuroscience Unit at the University of Vienna and currently a visiting researcher at the Cognitive Neuroecology Lab at the University of Oxford. My research focuses on the neural bases of how dogs and humans perceive and understand each other and the evolution of the social brain.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
