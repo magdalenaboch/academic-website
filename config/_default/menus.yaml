@@ -7,8 +7,8 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research Interests
-    url: '#research'
+  - name: Projects
+    url: '#projects'
     weight: 20
   - name: Publications
     url: '#publications'
@@ -25,6 +25,9 @@ main:
   - name: Trivia
     url: '#trivia'
     weight: 70
+  - name: Contact
+    url: '#contact'
+    weight: 80
  
 
 # Link to a PDF of your resume/CV from the menu.
