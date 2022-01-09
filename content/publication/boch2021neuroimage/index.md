@@ -5,7 +5,7 @@ title: "Tailored haemodynamic response function increases detection power of fMR
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Magdalena Boch
+- admin
 - Sabrina Karl
 - Ronald Sladky
 - Ludwig Huber
@@ -44,9 +44,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: Open Access PDF
-  url: https://doi.org/10.1016/j.neuroimage.2020.117414
+#links:
+#- name: Open Access PDF
+#  url: https://doi.org/10.1016/j.neuroimage.2020.117414
 
 url_pdf: 'https://doi.org/10.1016/j.neuroimage.2020.117414'
 url_code: 'https://www.sciencedirect.com/science/article/pii/S1053811920308995?via%3Dihub#sec0028'
