@@ -40,9 +40,11 @@ coordinates:
 contact_links:
   - icon: envelope
     icon_pack: fab
+    name: email me
     link: 'mailto:magdalena.boch@univie.ac.at?subject=inquiry'
   - icon: twitter
-    icon_pack: fab
+    icon_pack: fas
+    name: DM me
     link: 'https://twitter.com/magdalenaboch'
   #- icon: skype
     #icon_pack: fab
