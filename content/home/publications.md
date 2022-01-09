@@ -34,6 +34,6 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 1 # (with 4 there is no picture but also the author names grey)
 ---
 
