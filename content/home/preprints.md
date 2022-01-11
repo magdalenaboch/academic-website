@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
-title = "Preprints under review"
+title = "Manuscripts under review"
 subtitle = ""
 
 [content]
@@ -70,7 +70,6 @@ subtitle = ""
  css_class = ""
 +++
 
-## **Preprints under review**
 
 <!--{{% callout note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
