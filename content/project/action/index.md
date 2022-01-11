@@ -12,15 +12,15 @@ image:
   caption: Photo by Magdalena Boch
   focal_point: Smart
 
-links:
-- icon: ""
-  icon_pack: ""
-  name: ""
-  url: ""
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#links:
+#- icon: ""
+ # icon_pack: ""
+ # name: ""
+  #url: ""
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
