@@ -19,7 +19,7 @@ links:
   url: https://doi.org/10.1016/j.actpsy.2021.103297
 
 - icon: psyarxiv
-  icon_pack: fai
+  icon_pack: ai
   name: attachment & self-other distinction
   url: https://psyarxiv.com/bpyvz/
 
