@@ -1,5 +1,5 @@
 ---
-title: Research methods
+title: Action observation
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 tags:
 - ""
@@ -13,20 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: newspaper
-  icon_pack: fas
-  name: dog fMRI training
-  url: https://link.springer.com/article/10.3758/s13428-019-01281-7
-
-- icon: newspaper
-  icon_pack: fas
-  name: analysis pipeline & dog HRF
-  url: https://doi.org/10.1016/j.neuroimage.2020.117414
-
-- icon: newspaper
-  icon_pack: fas
-  name: preregistered replication study
-  url: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01601/full
+- icon: ""
+  icon_pack: ""
+  name: ""
+  url: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
