@@ -46,7 +46,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: 'Twitter thread'
-  url: 'https://twitter.com/MagdalenaBoch/status/1238391514797092864?s=20'
+  url: 'https://twitter.com/MagdalenaBoch/status/1309178003335901188?s=20'
 url_pdf: 'https://doi.org/10.1016/j.neuroimage.2020.117414'
 url_code: 'https://www.sciencedirect.com/science/article/pii/S1053811920308995?via%3Dihub#sec0028'
 url_dataset: ''

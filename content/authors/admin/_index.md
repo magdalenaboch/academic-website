@@ -26,6 +26,7 @@ interests:
 - evolution of the social brain
 - visual perception
 - non-invasive neuroimaging techniques
+- open (neuro)science
 
 # Education to show in About widget
 education:
