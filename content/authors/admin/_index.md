@@ -21,10 +21,11 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- non-invasive comparative neuroimaging
+- comparative neuroscience
 - social cognition
 - evolution of the social brain
 - visual perception
+- non-invasive neuroimaging techniques
 
 # Education to show in About widget
 education:
