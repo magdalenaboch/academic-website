@@ -1,5 +1,5 @@
 ---
-title: Comparative neuroimaging with dogs and humans - research methods
+title: Canine neuroimaging - research methods
 summary: The dogs participating in my research are all fully awake and unrestrained pet dogs. In order to achieve this, my colleagues and I developed a training protocol using positive reinforcement in order to habituate the dogs to the scanner environment and attend the visual stimuli presentation for data collection runs up to 8 min. I am also continously working on improving current preprocessing and analysis workflows of dog neuroimaging data since data processing and analysis standards in the emerging field of canine neuroimaging are often based on human neuroimaging standards, despite neurophysiological and anatomical differences. My colleagues and I have developed a pre-processing pipeline for canine neuroimaging data and investigated the BOLD signal time course in dogs. Using functional magnetic resonance imaging (fMRI), we found that the BOLD signal in dogs peaks 2-3 s earlier as in humans. Based on this finding, we created a tailored haemodynamic response function (HRF) for dogs to accurately model the BOLD signal, and showed that this significantly increases detection power in dog fMRI studies. Stay tuned for further investigations on how we can improve canine neuroimaging methods. 
 
 tags:
