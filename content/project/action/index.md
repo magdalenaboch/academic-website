@@ -1,5 +1,5 @@
 ---
-subtitle: Action observation
+title: Action observation
 summary: Another crucial ability for everyday social life is the ability to understand and predict another individual’s behaviour. It is again important for social interactions but also an important source for social learning. 
 
 tags:

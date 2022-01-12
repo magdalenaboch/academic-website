@@ -1,5 +1,5 @@
 ---
-subtitle: Face & body perception
+title: Face & body perception
 summary: For successful social interactions, it is crucial to discriminate other individuals from, e.g., inanimate objects. Humans have brain regions selectively responding to faces and bodies and compared to objects or other complex visual stimuli, but what about dogs? In this project, we compared the neural underpinnings of face and body perception in dogs and humans to gain new insights into a potential convergent evolution of temporal face- and body-sensitive regions in dogs and humans.
 tags:
 - ""
