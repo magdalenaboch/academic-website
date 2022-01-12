@@ -7,7 +7,7 @@ title: "Training pet dogs for eye-tracking and awake fMRI"
 authors: 
 - Sabrina Karl
 - admin
-- Zsófia Virányi1 
+- Zsófia Virányi
 - Claus Lamm
 - Ludwig Huber
 
