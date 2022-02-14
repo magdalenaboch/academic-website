@@ -1,6 +1,6 @@
 ---
 title: Action observation
-summary: Another crucial ability for everyday social life is the ability to understand and predict another individual’s behaviour. It is again important for social interactions but also an important source for social learning. 
+summary: Another crucial socio-cognitive skill is the ability to understand and predict another individual’s behaviour. In humans similar brain regions are active both when they perform or observe an action. Dogs are excellent at understanding human bodily cues and imitating actions of humans or conspecifics, but does their brain process these actions similar to humans? In this project, we compare the neural bases of action observation in dogs and humans to study a potential convergent evolution and their role for social cognition.
 
 tags:
 - ""
@@ -32,4 +32,4 @@ image:
 slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Another crucial socio-cognitive skill is the ability to understand and predict another individual’s behaviour. In humans similar brain regions are active both when they perform or observe an action. Dogs are excellent at understanding human bodily cues and imitating actions of humans or conspecifics, but does their brain process these actions similar to humans? In this project, we compare the neural bases of action observation in dogs and humans to study a potential convergent evolution and their role for social cognition.
