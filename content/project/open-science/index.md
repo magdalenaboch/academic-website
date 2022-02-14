@@ -1,5 +1,5 @@
 ---
-title: Open science & reproducibility
+title: Open (neuro)science & reproducibility
 summary: I am a big open science enthusiast and regularly promote open science through my own research practices and by teaching master students on the importance of transparent research (see teaching section). I share the data and code for all of my studies either directly as a journal supplement or on open repositories and I aim to preregister my studies and/or transparently report my research clearly differentiating between exploratory and confirmatory analysis.
 
 tags:
