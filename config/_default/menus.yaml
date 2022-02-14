@@ -19,12 +19,12 @@ main:
   - name: Outreach
     url: '#outreach'
     weight: 50
-  - name: Brain Sketches
-    url: '#brains'
-    weight: 60
-  - name: Trivia
-    url: '#trivia'
-    weight: 70
+  #- name: Brain Sketches
+  #  url: '#brains'
+  #  weight: 60
+  #- name: Trivia
+   # url: '#trivia'
+    #weight: 70
   - name: Contact
     url: '#contact'
     weight: 80
