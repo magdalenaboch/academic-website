@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Magdalena Boch # Website name
-baseurl: 'https://focused-ritchie-6e2022.netlify.app/' # Website URL
-#baseurl: 'magdalenaboch.com' # Website URL
+#baseurl: 'https://focused-ritchie-6e2022.netlify.app/' # Website URL
+baseurl: 'magdalenaboch.com' # Website URL
 copyright: '© Magdalena Boch' # Footer text, e.g. '© {year} Me'
 
 ############################
