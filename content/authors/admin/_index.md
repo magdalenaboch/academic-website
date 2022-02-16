@@ -6,7 +6,7 @@ title: Magdalena Boch
 superuser: true
 
 # Role/position/tagline
-role: comparative social neuroscientist and psychologist.
+role: comparative social neuroscientist and psychologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
