@@ -24,15 +24,10 @@ links:
   name: open code
   url: https://github.com/magdalenaboch
 
-- icon: github
-  icon_pack: fab
-  name: open code
-  link: https://github.com/magdalenaboch
-
 - icon: osf
   icon_pack: ai
   name: open data
-  link: https://osf.io/d7m3g/
+  url: https://osf.io/d7m3g/
 
 url_code: ""
 url_pdf: ""
