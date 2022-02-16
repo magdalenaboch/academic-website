@@ -22,6 +22,11 @@ links:
 - icon: github
   icon_pack: fab
   name: open code
+  url: https://github.com/magdalenaboch
+
+- icon: github
+  icon_pack: fab
+  name: open code
   link: https://github.com/magdalenaboch
 
 - icon: osf
