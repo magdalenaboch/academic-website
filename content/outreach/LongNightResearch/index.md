@@ -15,11 +15,7 @@ image:
   caption: LNF2018_4781 Universitaet_Wien/derknopfdruecker.com
   focal_point: Smart
 
-links:
-- icon: youtube
-  icon_pack: fab
-  name: "Talk Recording (german)"
-  url: "https://youtu.be/CHwqsHzSwD8?t=269"
+#links:
 
 #url_code: ""
 #url_pdf: ""
