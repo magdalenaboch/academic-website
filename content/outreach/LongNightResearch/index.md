@@ -4,7 +4,7 @@ summary: Together with my PhD buddies, I organized a booth on psychological rese
 
 tags:
 - ""
-date: "2016-04-27T00:00:00Z"
+date: "2014-04-27T00:00:00Z"
 
 show_date: false
 
