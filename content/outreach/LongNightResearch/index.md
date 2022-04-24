@@ -1,8 +1,6 @@
 ---
 title: Lange Nacht der Forschung / Long Night of Research
-summary: 
-
-Together with my PhD buddies, I organized a booth on psychological research and social neuroscience at the “Lange Nacht der Forschung“ (engl. Long night of research) We provied posters and infosheets on questions like “How do we measure affective touch? How do dogs stay motionless during MRI data acquisition and why do we study dogs?, paired with quizzes (e.g. facts about the brain or match the brain and animal) and performed an actual data collection (emotion discrimination task).
+summary: Together with my PhD buddies, I organized a booth on psychological research and social neuroscience at the “Lange Nacht der Forschung“ (engl. Long night of research) We provied posters and infosheets on questions like “How do we measure affective touch? How do dogs stay motionless during MRI data acquisition and why do we study dogs?, paired with quizzes (e.g. facts about the brain or match the brain and animal) and performed an actual data collection (emotion discrimination task).
 
 tags:
 - ""
