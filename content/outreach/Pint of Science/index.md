@@ -1,6 +1,6 @@
 ---
 title: Pint of Science Austria 
-summary: In 2022, I have been invited to talk about my research in a live online event organized by Pint of Science Austria. I explained why we do comparative imaging (i.e., what we learn about brain evolution by comparative neuroimaging), how we collect neuroimaging data from our dogs and recent research findings. The event was free and evryone could answer questions in the chat creating a great conversation. [I'm an external link](https://www.google.com)
+summary: In 2022, I have been invited to talk about my research in a live online event organized by [Pint of Science Austria](https://pintofscience.at/). I explained why we do comparative imaging (i.e., what we learn about brain evolution by comparative neuroimaging), how we collect neuroimaging data from our dogs and recent research findings. The event was free and evryone could answer questions in the chat creating a great conversation. 
 
 tags:
 - ""
@@ -24,7 +24,7 @@ links:
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
-url_video: "https://youtu.be/CHwqsHzSwD8?t=269"
+#url_video: "https://youtu.be/CHwqsHzSwD8?t=269"#
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -34,4 +34,4 @@ url_video: "https://youtu.be/CHwqsHzSwD8?t=269"
 
 slides: ""
 ---
-In 2022, I have been invited to talk about my research in a live online event organized by Pint of Science Austria. I explained why we do comparative imaging (i.e., what we learn about brain evolution by comparative neuroimaging), how we collect neuroimaging data from our dogs and recent research findings. The event was free and evryone could answer questions in the chat creating a great conversation.
+In 2022, I have been invited to talk about my research in a live online event organized by [Pint of Science Austria](https://pintofscience.at/). I explained why we do comparative imaging (i.e., what we learn about brain evolution by comparative neuroimaging), how we collect neuroimaging data from our dogs and recent research findings. The event was free and evryone could answer questions in the chat creating a great conversation. 
