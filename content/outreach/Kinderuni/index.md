@@ -10,7 +10,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Magdalena Boch
+  caption: Photo by Kinderuni Wien
   focal_point: Smart
 
 #links:
@@ -32,4 +32,4 @@ image:
 slides: ""
 ---
 
-Another crucial socio-cognitive skill is the ability to understand and predict another individual’s behaviour. In humans similar brain regions are active both when they perform or observe an action. Dogs are excellent at understanding human bodily cues and imitating actions of humans or conspecifics, but does their brain process these actions similar to humans? In this project, we compare the neural bases of action observation in dogs and humans to study a potential convergent evolution and their role for social cognition.
+Over the last years, colleagues from the SCAN Unit and I organized and hosted an interactive workshop at the annual Children's University in Vienna. Under the title "What does our brain do? - Everything about the brain and the abilities it enables us to have" we teach pre-school and elementary school children about brain structure and function focusing on empathy, perspective taking and memory. We explore for example how the human brain looks like by making brain hats together and  compare it to the brains of other animals in a match the animal and brain quiz. We also put our brains to the test with memory tasks and try to imagine what it actually feels like to be old in a role-playing game.
