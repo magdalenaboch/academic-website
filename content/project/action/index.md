@@ -14,11 +14,11 @@ image:
   caption: Photo by Magdalena Boch
   focal_point: Smart
 
-#links:
-#- icon: ""
- # icon_pack: ""
- # name: ""
-  #url: ""
+links:
+- icon: "file-pdf"
+  icon_pack: "fas"
+  name: "Poster with first results (CPPC 2022)"
+  url: "/uploads/poster_CPPC_2022.pdf"
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
