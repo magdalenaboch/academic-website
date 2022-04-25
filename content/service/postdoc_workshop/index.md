@@ -17,8 +17,8 @@ image:
 
 links:
 - icon: "file-pdf"
-  icon_pack: fab
-  name: Wprkshop Program
+  icon_pack: fas
+  name: Workshop Information
   url: "uploads/flyer_postdocworkshop.pdf"
 
 #url_code: ""
