@@ -16,7 +16,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: file-pdf
+- icon: "file-pdf"
   icon_pack: fab
   name: Flyer Workshop
   url: "/static/uploads/flyer_postdocworkshop.pdf"
