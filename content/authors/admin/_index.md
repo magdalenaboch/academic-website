@@ -86,4 +86,4 @@ highlight_name: true
 
 I am a postdoctoral researcher at the [Social Cognitive and Affective Neuroscience Unit](https://scan-psy.univie.ac.at/) at the University of Vienna in close collaboration with the [Cognitive Neuroecology Lab](http://www.rbmars.dds.nl/lab.html) at the University of Oxford. My research focuses on the neural bases of how dogs and humans perceive and understand each other and the evolution of the canine and primate social brain.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BochMagdalena_academicCV_Oct22.pdf" "newtab" >}}CV{{< /staticref >}}.
