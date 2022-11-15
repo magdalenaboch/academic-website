@@ -51,7 +51,7 @@ social:
   link: 'mailto:magdalena.boch@univie.ac.at?subject=inquiry'
 
 - icon: mastodon
-  icon_pack: fab
+  icon_pack: fas
   link: https://fediscience.org/@magdalenaboch
 
 - icon: google-scholar  
