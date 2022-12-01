@@ -12,7 +12,7 @@ show_date: false
 external_link: ""
 
 image:
-  caption: Event Flyer and group picture with organizers and speakers
+  caption: Event flyer & group picture including organizers and speakers
   focal_point: Smart
 
 #url_code: ""
