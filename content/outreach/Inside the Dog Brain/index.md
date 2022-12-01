@@ -28,4 +28,4 @@ image:
 
 slides: ""
 ---
-In 2022, I have been invited to talk about my research in a live online event organized by [Pint of Science Austria](https://pintofscience.at/). I explained why we do comparative imaging (i.e., what we learn about brain evolution by comparative neuroimaging), how we collect neuroimaging data from our dogs and recent research findings. The event was free and evryone could answer questions in the chat creating a great conversation. 
+In fall 2022, I have been invited from the [Centre for the Creative Brain](https://www.seh.ox.ac.uk/discover/research/centre-for-the-creative-brain-2) at the University of Oxford to talk about my research joining speakers from Guide Dogs UK at a public engagement event. I explained why pet dogs are an exciting model species for comparative social neuroscience and the research questions I am interested in my work. Followed by an introduction of the dog brain and how we collect the dogs neuroimaging data. Finally I discussed some highlights from awake dog fMRI research so far covering insights into dog and human brain evolution as well as the dog-human relationship.
