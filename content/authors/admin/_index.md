@@ -31,10 +31,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Psychology (with distinction)
+  - course: PhD in Psychology (graded with honors)
     institution: University of Vienna, AT
     year: 2022
-  - course: MSc in Psychology (with distinction) 
+  - course: MSc in Psychology (graded with honors) 
     institution: University of Vienna, AT
     year: 2017
   - course: BSc in Psychology
