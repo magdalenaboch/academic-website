@@ -1,5 +1,5 @@
 ---
-title: "The multiple facets of empathy"
+title: "Validation of a new coil array tailored for dog functional magnetic resonance imaging (fMRI) studies"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
