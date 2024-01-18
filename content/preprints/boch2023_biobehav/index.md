@@ -29,9 +29,8 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: '*PsyArXiv*'
-#publication_short: In *ICW*
 
-abstract: Dogs and humans have lived together for thousands of years and share many
+abstract: 'Dogs and humans have lived together for thousands of years and share many
 analogous socio-cognitive skills. Dog neuroimaging now provides insight into the
 neural bases of these shared social abilities. Here, we summarize key findings from
 dog fMRI identifying neocortical brain areas implicated in face, body, and emotion
@@ -44,20 +43,19 @@ to overcome them. Finally, we argue that the foundation has now been built to
 investigate the neural bases of more complex socio-cognitive phenomena shared by
 dogs and humans. This will help establish the domestic dog as an even more powerful
 comparative model species and provide novel insights into the evolutionary roots of
-social cognition.
+social cognition.'
 
 # Summary. An optional shortened abstract.
-summary:  
+summary: 
 
-tags: [comparative neuroimaging, vision, social cognition, dog, human]
+
+tags: [comparative neuroimaging, vision, social cognition, dogs, humans]
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
 links:
-#- name: 'Twitter thread'
-#  url: 'https://x.com/MagdalenaBoch/status/1673749268744617984?s=20'
 url_pdf: 'https://doi.org/10.31234/osf.io/wc8u5'
 url_poster: ''
 url_project: ''

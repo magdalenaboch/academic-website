@@ -32,7 +32,6 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: '*bioRxiv*'
-#publication_short: In *ICW*
 
 abstract: Action observation is a fundamental pillar of social cognition. Neuroimaging research has revealed a human and primate action observation network (AON) encompassing fronto-temporo-parietal areas with links to a species’ imitation tendencies and relative lobe expansion. Dogs (Canis familiaris) have good action perception and imitation skills and a less expanded parietal than temporal lobe, but their AON remains unexplored. We conducted a functional MRI study with 28 dogs and 40 humans and found functionally analogous involvement of somatosensory and temporal brain areas of both species’ AONs and responses to transitive and intransitive action observation in line with their imitative skills. However, activation and task-based functional connectivity measures suggested significantly less parietal lobe involvement in dogs than in humans. These findings advance our understanding of the neural bases of action understanding and the convergent evolution of social cognition, with analogies and differences resulting from similar social environments and divergent brain expansion, respectively.
 
@@ -46,17 +45,12 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-#- name: 'Twitter thread'
-#  url: 'https://x.com/MagdalenaBoch/status/1673749268744617984?s=20'
-url_pdf: 'https://www.biorxiv.org/content/10.1101/2023.10.02.560112v1.full.pdf'
-#url_code: 'https://github.com/magdalenaboch/fROI-analysis'
-#url_dataset: 'https://osf.io/kzcs2/'
+- name: 'preprint'
+  url: 'https://www.biorxiv.org/content/10.1101/2023.10.02.560112v1.full.pdf'
 - name: 'OSF project site'
   url: 'https://osf.io/z479k/'
-#- name: 'Github project site'
-#  url: 'https://osf.io/kzcs2/'
 - name: 'Raw dog neuroimaging data'
- url: 'coming soon'
+  url: 'coming soon'
 url_poster: ''
 url_project: ''
 url_slides: ''
