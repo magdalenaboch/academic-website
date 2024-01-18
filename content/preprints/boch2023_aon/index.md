@@ -1,13 +1,14 @@
 ---
-title: "Functionally analogous body- and animacy-responsive areas are present in the dog (Canis familiaris) and human occipito-temporal lobe"
+title: "Action observation reveals a network with divergent temporal and parietal lobe engagement in dogs compared to humans"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
 - admin
-- "Isabella C. Wagner"
 - "Sabrina Karl"
+- "Isabella C. Wagner"
+- "Lukas L. Lengersdorff"
 - "Ludwig Huber"
 - "Claus Lamm"
 
@@ -47,7 +48,7 @@ featured: false
 links:
 #- name: 'Twitter thread'
 #  url: 'https://x.com/MagdalenaBoch/status/1673749268744617984?s=20'
-url_pdf: 'https://doi.org/10.31234/osf.io/wc8u5'
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2023.10.02.560112v1.full.pdf'
 #url_code: 'https://github.com/magdalenaboch/fROI-analysis'
 #url_dataset: 'https://osf.io/kzcs2/'
 - name: 'OSF project site'
