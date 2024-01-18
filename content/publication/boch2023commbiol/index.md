@@ -47,9 +47,8 @@ featured: false
 links:
 - name: 'Twitter thread'
   url: 'https://x.com/MagdalenaBoch/status/1673749268744617984?s=20'
-url_pdf: 'https://doi.org/10.1038/s42003-023-05014-7'
-url_code: 'https://github.com/magdalenaboch/fROI-analysis'
-url_dataset: 'https://osf.io/kzcs2/'
+- name: 'Article'
+  url: 'https://www.nature.com/articles/s42003-023-05014-7'
 - name: 'OSF project site'
   url: 'https://osf.io/kzcs2/'
 - name: 'Github project site'

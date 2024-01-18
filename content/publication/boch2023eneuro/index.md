@@ -11,7 +11,7 @@ authors:
 - admin
 - "Elmar Laistler"
 - "Christian Windischerger"
-- "Ludwig Huber
+- "Ludwig Huber"
 - "Claus Lamm"
 
 # Author notes (optional)
