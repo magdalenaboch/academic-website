@@ -19,9 +19,9 @@ main:
   - name: Academic Service
     url: '#service'
     weight: 50
-  - name: Teaching
-    url: '#teaching'
-    weight: 60
+  #- name: Teaching
+  #  url: '#teaching'
+  #  weight: 60
   #- name: Brain Sketches
   #  url: '#brains'
   #  weight: 60
