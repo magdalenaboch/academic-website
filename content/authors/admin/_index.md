@@ -24,7 +24,7 @@ interests:
 - comparative neuroscience
 - social cognition
 - evolution of the social brain
-- visual perception
+- visual & multimodal perception
 - non-invasive neuroimaging techniques
 - open (neuro)science
 
@@ -88,6 +88,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the [Social Cognitive and Affective Neuroscience Unit](https://scan-psy.univie.ac.at/) at the University of Vienna in close collaboration with the [Cognitive Neuroecology Lab](http://www.rbmars.dds.nl/lab.html) at the University of Oxford. My research focuses on the neural bases of how dogs and humans perceive and understand each other and the evolution of the canine and primate social brain.
+I am a postdoctoral researcher working at the [Social Cognitive and Affective Neuroscience Unit](https://scan-psy.univie.ac.at/) at the University of Vienna and the [Cognitive Neuroecology Lab](http://www.rbmars.dds.nl/lab.html) at the University of Oxford. In my research, I use comparative functional neuroimaging to study a potential convergent evolution of the neural bases supporting social abilities in humans and dogs. I also combine multiple neuroimaging modalities to investigate the evolution, structure, and function of the temporal lobe — a key brain area for social cognition in primates— across a broad range of carnivoran species.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
