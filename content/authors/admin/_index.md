@@ -10,11 +10,12 @@ role: comparative social neuroscientist and psychologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Vienna
-  url: https://scan-psy.univie.ac.at/
 
 - name: University of Oxford
-  url: http://www.rbmars.dds.nl/lab.html
+  url: https://users.ox.ac.uk/~xpsy0353/ #http://www.rbmars.dds.nl/lab.html
+
+- name: University of Vienna
+  url: https://scan-psy.univie.ac.at/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include ...
