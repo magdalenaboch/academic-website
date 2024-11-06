@@ -84,10 +84,10 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
+# Highlight the author in author lists? (true/false) {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
 highlight_name: true
 ---
 
 I am a postdoctoral researcher working at the [Cognitive Neuroecology Lab](http://www.rbmars.dds.nl/lab.html) at the University of Oxford in close collaboration with the [Social Cognitive and Affective Neuroscience Unit](https://scan-psy.univie.ac.at/) at the University of Vienna. In my research, I use comparative functional neuroimaging to study a potential convergent evolution of the neural bases supporting social abilities in humans and dogs. I also combine multiple neuroimaging modalities to investigate the evolution, structure, and function of the temporal lobe — a key brain area for social cognition in primates— across a broad range of carnivoran species.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
