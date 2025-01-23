@@ -45,12 +45,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: 'preprint'
-  url: 'https://www.biorxiv.org/content/10.1101/2023.10.02.560112v1.full.pdf'
 - name: 'OSF project site'
   url: 'https://osf.io/z479k/'
 - name: 'Raw dog neuroimaging data'
-  url: 'coming soon'
+  url: 'https://zenodo.org/records/13860616'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -69,8 +67,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- 'action'
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
