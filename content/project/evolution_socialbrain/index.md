@@ -21,6 +21,11 @@ links:
   name: "Twitter thread dog neuroimaging"
   url: "https://twitter.com/MagdalenaBoch/status/1350080826638274568?s=20"
 
+links:
+- icon: "file-pdf"
+  icon_pack: "fas"
+  name: "Poster with first results of social expectation formation study"
+  url: "/uploads/FENS2024_poster_SPEX_poster_MagdalenaBoch.pdf"
 
 #url_code: ""
 #url_pdf: ""
