@@ -96,4 +96,4 @@ I am a postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://
 **Key research terms:**
 social cognition & behaviour, evolution of the social brain, human-animal relationship, non-invasive comparative neuroscience, neuroimaging methods, open (neuro)science
 
-You can find a detailed overview of my academic journey, research experience, and publications in my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
+You can find a detailed overview of my academic journey, research experience & publications in my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
