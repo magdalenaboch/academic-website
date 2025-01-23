@@ -12,7 +12,7 @@ role: comparative neuroscientist & psychologist
 organizations:
 
 - name: University of Oxford
-  url: https://users.ox.ac.uk/~xpsy0353/ #http://www.rbmars.dds.nl/lab.html
+  url: https://www.win.ox.ac.uk/ #http://www.rbmars.dds.nl/lab.html
 
 #- name: University of Vienna
  # url: https://scan-psy.univie.ac.at/
