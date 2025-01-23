@@ -89,7 +89,7 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/), University of Oxford, UK and I am collaborating closely with the [Comparative Canine Neuroimaging Unit](https://ccnu.univie.ac.at/), University of Vienna and University of Veterinary Medicine Vienna, Austria. 
+I am currently a postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/), University of Oxford, UK, and I am collaborating closely with the [Comparative Canine Neuroimaging Unit](https://ccnu.univie.ac.at/), University of Vienna and University of Veterinary Medicine Vienna, Austria. 
 
 My research focuses on understanding brain diversity, driven by the central question of what makes us social. Through a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species while also investigating the factors that drive differences in brain organization. I study this by entirely non-invasive comparative research with humans, dogs and other carnivoran species, with the ultimate goal of expanding this framework to a wide range of mammalian species and lineages. 
 
