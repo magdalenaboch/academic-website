@@ -18,22 +18,22 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2023-09-01T00:00:00Z"
-doi: "10.1038/s42003-023-05014-7"
+date: "2024-12-01T00:00:00Z"
+doi: "10.1162/imag_a_00385"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-01T00:00:00Z"
+publishDate: "2024-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*bioRxiv*'
+publication: '*Imaging Neuroscience*'
 
-abstract: Action observation is a fundamental pillar of social cognition. Neuroimaging research has revealed a human and primate action observation network (AON) encompassing fronto-temporo-parietal areas with links to a species’ imitation tendencies and relative lobe expansion. Dogs (Canis familiaris) have good action perception and imitation skills and a less expanded parietal than temporal lobe, but their AON remains unexplored. We conducted a functional MRI study with 28 dogs and 40 humans and found functionally analogous involvement of somatosensory and temporal brain areas of both species’ AONs and responses to transitive and intransitive action observation in line with their imitative skills. However, activation and task-based functional connectivity measures suggested significantly less parietal lobe involvement in dogs than in humans. These findings advance our understanding of the neural bases of action understanding and the convergent evolution of social cognition, with analogies and differences resulting from similar social environments and divergent brain expansion, respectively.
+abstract: Action observation is a fundamental pillar of social cognition. Neuroimaging research has revealed a human and non-human primate action observation network (AON) encompassing frontotemporoparietal areas with links to the species’ imitation tendencies and relative lobe expansion. Dogs (Canis familiaris) have good action perception and imitation skills and a less expanded parietal than temporal cortex, but their AON remains unexplored. We conducted a functional MRI study with 28 dogs and 40 humans and found functionally analogous involvement of somatosensory and temporal brain areas of both species’ AONs and responses to transitive and intransitive action observation in line with their imitative skills. Employing a functional localizer, we also identified functionally analogous agent-responsive areas within both species’ AONs. However, activation and task-based functional connectivity measures suggested significantly less parietal cortex involvement in dogs than in humans. These findings advance our understanding of the neural bases of action understanding and the convergent evolution of social cognition, with analogies and differences resulting from similar social environments and divergent brain expansion, respectively.
 
 # Summary. An optional shortened abstract.
 summary: 
