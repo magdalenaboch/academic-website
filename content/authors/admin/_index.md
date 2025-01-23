@@ -93,7 +93,7 @@ I am a postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://
 
 **My research focuses on understanding brain diversity, driven by the central question of what makes us social**. Through a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species while also investigating the factors that drive differences in brain organization. I study this by non-invasive comparative research with humans, dogs and other carnivoran species, with the ultimate goal of expanding this framework to a wide range of mammalian species and lineages. 
 
-### Key research terms:
+**Key research terms:**
 social cognition & behaviour, evolution of the social brain, human-animal relationship, non-invasive comparative neuroscience, neuroimaging methods, open (neuro)science
 
 You can find a detailed overview of my academic journey, research experience, and publications in my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
