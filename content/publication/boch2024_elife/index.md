@@ -57,6 +57,7 @@ tags: [comparative neuroimaging, neocortical sulal anatomy, order carnivora, neu
 featured: false
 
 # Custom links (uncomment lines below)
+links:
 - name: 'Digital Brain Zoo'
   url: 'https://open.win.ox.ac.uk/DigitalBrainBank/#/datasets/zoo'
 url_project: ''
