@@ -88,8 +88,7 @@ email: ""
 highlight_name: true
 ---
 
+I am currently a postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/) at the University of Oxford and I am collaborating closely with the [Comparative Canine Neuroimaging Unit](https://ccnu.univie.ac.at/) at the University of Vienna. For more details about my academic journey and research experience, feel free to explore my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-I am a postdoctoral researcher working at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/) at the University of Oxford and collaborating closely with the [Social Cognitive and Affective Neuroscience Unit](https://scan-psy.univie.ac.at/) at the University of Vienna.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
+*My research focuses on understanding brain diversity, driven by the central question of what makes us social*. Through a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species while also investigating the factors that drive differences in brain organization. I study this by comparative research with humans, dogs and other carnivoran species, with the ultimate goal of expanding this framework to a wide range of mammalian species and lineages. 
 
