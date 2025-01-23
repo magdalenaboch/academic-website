@@ -15,39 +15,25 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2023-10-01T00:00:00Z"
-doi: "10.31234/osf.io/wc8u5"
+date: "2024-07-01T00:00:00Z"
+doi: "10.1016/j.neubiorev.2024.105700"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-01T00:00:00Z"
+publishDate: "2024-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*PsyArXiv*'
+publication: '*Neuroscience & Biobehavioral Reviews*'
 
-abstract: 'Dogs and humans have lived together for thousands of years and share many
-analogous socio-cognitive skills. Dog neuroimaging now provides insight into the
-neural bases of these shared social abilities. Here, we summarize key findings from
-dog fMRI identifying neocortical brain areas implicated in face, body, and emotion
-perception and action observation in dogs. These findings provide converging
-evidence that the temporal cortex plays a significant role in visual social cognition in
-dogs. We further briefly review investigations into the neural bases of the dog-human
-relationship, mainly involving limbic brain regions. We then discuss current challenges
-in the field, such as statistical power and lack of common template spaces, and how
-to overcome them. Finally, we argue that the foundation has now been built to
-investigate the neural bases of more complex socio-cognitive phenomena shared by
-dogs and humans. This will help establish the domestic dog as an even more powerful
-comparative model species and provide novel insights into the evolutionary roots of
-social cognition.'
+abstract: 'Dogs and humans have lived together for thousands of years and share many analogous socio-cognitive skills. Dog neuroimaging now provides insight into the neural bases of these shared social abilities. Here, we summarize key findings from dog fMRI identifying neocortical brain areas implicated in visual social cognition, such as face, body, and emotion perception, as well as action observation in dogs. These findings provide converging evidence that the temporal cortex plays a significant role in visual social cognition in dogs. We further briefly review investigations into the neural base of the dog-human relationship, mainly involving limbic brain regions. We then discuss current challenges in the field, such as statistical power and lack of common template spaces, and how to overcome them. Finally, we argue that the foundation has now been built to investigate and compare the neural bases of more complex socio-cognitive phenomena shared by dogs and humans. This will strengthen and expand the role of the domestic dog as a powerful comparative model species and provide novel insights into the evolutionary roots of social cognition.'
 
 # Summary. An optional shortened abstract.
 summary: 
-
 
 tags: [comparative neuroimaging, vision, social cognition, dogs, humans]
 
@@ -56,7 +42,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-url_pdf: 'https://doi.org/10.31234/osf.io/wc8u5'
+url_pdf: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -66,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Boch et al. 2023, PsyArXiv] (https://doi.org/10.31234/osf.io/wc8u5 )'
+  caption: 'Image credit: [Boch et al. 2024, Neuroscience & Biobehavioral Reviews] (https://doi.org/10.1016/j.neubiorev.2024.105700)'
   focal_point: ""
   preview_only: false
 
@@ -75,8 +61,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- 'evolution_socialbrain'
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
