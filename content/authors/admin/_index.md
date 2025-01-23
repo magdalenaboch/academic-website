@@ -88,20 +88,8 @@ email: ""
 highlight_name: true
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 I am a postdoctoral researcher working at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/) at the University of Oxford and collaborating closely with the [Social Cognitive and Affective Neuroscience Unit](https://scan-psy.univie.ac.at/) at the University of Vienna.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
-
-# In my research, I use comparative functional neuroimaging to study a potential convergent evolution of the neural bases supporting social abilities in humans and dogs. I #also combine multiple neuroimaging modalities to investigate the evolution, structure, and function of the temporal lobe — a key brain area for social cognition in #primates— across a broad range of carnivoran species.
-
-
-=======
-I am a postdoctoral researcher working at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/) at the University of Oxford in close collaboration with the [Social Cognitive and Affective Neuroscience Unit](https://scan-psy.univie.ac.at/) at the University of Vienna. In my research, I use comparative functional neuroimaging to study a potential convergent evolution of the neural bases supporting social abilities in humans and dogs. I also combine multiple neuroimaging modalities to investigate the evolution, structure, and function of the temporal lobe — a key brain area for social cognition in primates— across a broad range of carnivoran species.
->>>>>>> parent of 6a7bed1 (fens poster)
-=======
-I am a postdoctoral researcher working at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/) at the University of Oxford in close collaboration with the [Social Cognitive and Affective Neuroscience Unit](https://scan-psy.univie.ac.at/) at the University of Vienna. In my research, I use comparative functional neuroimaging to study a potential convergent evolution of the neural bases supporting social abilities in humans and dogs. I also combine multiple neuroimaging modalities to investigate the evolution, structure, and function of the temporal lobe — a key brain area for social cognition in primates— across a broad range of carnivoran species.
->>>>>>> parent of 6a7bed1 (fens poster)
-
 
