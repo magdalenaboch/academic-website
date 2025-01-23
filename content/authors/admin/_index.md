@@ -6,7 +6,7 @@ title: Magdalena Boch
 superuser: true
 
 # Role/position/tagline
-role: comparative social neuroscientist and psychologist
+role: comparative neuroscientist & psychologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -89,9 +89,9 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/) at the University of Oxford and I am collaborating closely with the [Comparative Canine Neuroimaging Unit](https://ccnu.univie.ac.at/) at the University of Vienna. 
+I am currently a postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/), University of Oxford, UK and I am collaborating closely with the [Comparative Canine Neuroimaging Unit](https://ccnu.univie.ac.at/), University of Vienna and University of Veterinary Medicine Vienna, Austria. 
 
-My research focuses on understanding brain diversity, driven by the central question of what makes us social. Through a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species while also investigating the factors that drive differences in brain organization. I study this by comparative research with humans, dogs and other carnivoran species, with the ultimate goal of expanding this framework to a wide range of mammalian species and lineages. 
+My research focuses on understanding brain diversity, driven by the central question of what makes us social. Through a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species while also investigating the factors that drive differences in brain organization. I study this by entirely non-invasive comparative research with humans, dogs and other carnivoran species, with the ultimate goal of expanding this framework to a wide range of mammalian species and lineages. 
 
-For more details about my academic journey and research experience, feel free to explore my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
+For a detailed overview of my academic journey, research experience, and publications, you can download my CV {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}here{{< /staticref >}}.
 
