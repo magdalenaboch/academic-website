@@ -22,25 +22,25 @@ organizations:
 
 
 # Interests to show in About widget
-interests:
-- non-invasive comparative neuroscience
-- foundations and evolution of social cognition & behaviour
-- awake neuroimaging & post-mortem diffussion MRI
-- methods for comparative neuroimaging 
-- open (neuro)science
+#interests:
+#- non-invasive comparative neuroscience
+#- foundations and evolution of social cognition & behaviour
+#- awake neuroimaging & post-mortem diffussion MRI
+##- methods for comparative neuroimaging 
+#- open (neuro)science
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Psychology (graded with honors)
-    institution: University of Vienna, AT
-    year: 2022
-  - course: MSc in Psychology (graded with honors) 
-    institution: University of Vienna, AT
-    year: 2017
-  - course: BSc in Psychology
-    institution: University of Vienna, AT
-    year: 2015
+#education:
+ # courses:
+ # - course: PhD in Psychology (graded with honors)
+ #   institution: University of Vienna, AT
+  #  year: 2022
+ # - course: MSc in Psychology (graded with honors) 
+ #   institution: University of Vienna, AT
+ #   year: 2017
+ # - course: BSc in Psychology
+ #   institution: University of Vienna, AT
+ #   year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
