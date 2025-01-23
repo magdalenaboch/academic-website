@@ -49,7 +49,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:magdalena.boch@univie.ac.at?subject=inquiry'
+  link: 'mailto:magdalena.boch@ndcn.ox.ac.uk?subject=inquiry'
 
 - icon: cloud
   icon_pack: fas
