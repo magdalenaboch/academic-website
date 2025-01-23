@@ -22,12 +22,12 @@ organizations:
 
 
 # Interests to show in About widget
-#interests:
-#- non-invasive comparative neuroscience
-#- foundations and evolution of social cognition & behaviour
-#- awake neuroimaging & post-mortem diffussion MRI
-##- methods for comparative neuroimaging 
-#- open (neuro)science
+Interests:
+- social cognition & behaviour
+- evolution of the social brain
+- non-invasive comparative neuroscience
+- neuroimaging methods
+- open (neuro)science
 
 # Education to show in About widget
 #education:
@@ -51,9 +51,9 @@ social:
   icon_pack: fas
   link: 'mailto:magdalena.boch@univie.ac.at?subject=inquiry'
 
-- icon: mastodon
+- icon: cloud
   icon_pack: fab
-  link: https://fediscience.org/@magdalenaboch
+  link: https://bsky.app/profile/magdalenaboch.bsky.social
 
 - icon: google-scholar  
   icon_pack: ai
@@ -89,7 +89,7 @@ email: ""
 highlight_name: true
 ---
 ### Short bio
-Postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/), University of Oxford, UK.
+I am a postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/), University of Oxford, UK.
 
 **My research focuses on understanding brain diversity, driven by the central question of what makes us social**. Through a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species while also investigating the factors that drive differences in brain organization. I study this by entirely non-invasive comparative research with humans, dogs and other carnivoran species, with the ultimate goal of expanding this framework to a wide range of mammalian species and lineages. 
 
