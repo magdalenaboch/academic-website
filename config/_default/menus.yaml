@@ -13,11 +13,11 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: Public Outreach
-    url: '#outreach'
+  - name: Awards & honours
+    url: '#awards'
     weight: 40
-  - name: Academic Service
-    url: '#service'
+  - name: Outreach
+    url: '#outreach'
     weight: 50
   #- name: Teaching
   #  url: '#teaching'
