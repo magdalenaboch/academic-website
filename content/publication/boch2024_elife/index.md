@@ -1,5 +1,5 @@
 ---
-title: "Action observation reveals a network with divergent temporal and parietal lobe engagement in dogs compared to humans"
+title: "Comparative neuroimaging of the carnivoran brain: Neocortical sulcal anatomy"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
