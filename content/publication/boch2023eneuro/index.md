@@ -46,9 +46,6 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: Publisher
-  url: https://www.wellbeingintlstudiesrepository.org/animsent/vol2/iss14/14/
 
 url_pdf: ''
 url_code: ''
