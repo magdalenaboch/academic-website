@@ -91,7 +91,9 @@ highlight_name: true
 ### Short Bio
 I am a postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/), University of Oxford, UK.
 
-**My research focuses on understanding brain diversity, driven by the central question of what makes us social**. Through a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species while also investigating the factors that drive differences in brain organization. I study this by non-invasive comparative research with humans, dogs and other carnivoran species, with the ultimate goal of expanding this framework to a wide range of mammalian species and lineages. 
+**My research focuses on understanding brain diversity, driven by the central question of what makes us social**. Using a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species, while also exploring the factors that drive differences in brain organization. By integrating multiple non-invasive neuroimaging modalities, I investigate the evolution, structure, and function of the social brain, gaining insights into how social behaviours emerge.
+
+Currently, my work focuses on humans, dogs, and other carnivoran species, with the ultimate goal of expanding this approach to encompass a broad range of mammalian species and lineages.
 
 **Key research terms:**
 social cognition & behaviour, evolution of the social brain, human-animal relationship, non-invasive comparative neuroscience, neuroimaging methods, open (neuro)science
