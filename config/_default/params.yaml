@@ -114,7 +114,8 @@ plugins_js: []
 avatar:
   gravatar: false
   shape: circle
-  image: '/uploads/avatar_round.jpg'
+  #image: '/uploads/avatar_round.jpg'
+  image: '/uploads/test_avatar.jpg'
 publications:
   date_format: January 2006
   citation_style: apa
