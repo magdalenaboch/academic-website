@@ -4,7 +4,7 @@ summary: In 2023, I participated in a two-part SciComm segment for the children'
 
 tags:
 - ""
-date: "2023-04-27T00:00:00Z"
+date: "2023-07-27T00:00:00Z"
 
 show_date: false
 
