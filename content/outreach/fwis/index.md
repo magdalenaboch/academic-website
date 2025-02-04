@@ -1,6 +1,6 @@
 ---
 title: Imagefilm For Women in Science Award 2024
-summary: In 2024, I received the prestigious [L'Oréal-UNESCO Award for Women in Science](http://www.forwomeninscience.com/). As part of the award, we created this short film showcasing my academic career and research in awake dog neuroimaging. The film offers a behind-the-scenes look at our work and aims to make science more accessible to the broader public.
+summary: In 2024, I received the prestigious [L'Oréal-UNESCO Award for Women in Science](http://www.forwomeninscience.com/). As part of the award, we created this [short film](https://www.youtube.com/watch?v=U9H18XO-DOA&ab_channel=MagdalenaBoch) showcasing my academic career and research in awake dog neuroimaging. The film offers a behind-the-scenes look at our work and aims to make science more accessible to the broader public.
 
 tags:
 - ""
@@ -28,4 +28,4 @@ url_video: "https://youtu.be/U9H18XO-DOA?si=aI6ktJ0akSnHvtP0"
 
 slides: ""
 ---
-In 2024, I received the prestigious [L'Oréal-UNESCO Award for Women in Science](http://www.forwomeninscience.com/). As part of the award, we created this short film showcasing my academic career and research in awake dog neuroimaging. The film offers a behind-the-scenes look at our work and aims to make science more accessible to the broader public.
+In 2024, I received the prestigious [L'Oréal-UNESCO Award for Women in Science](http://www.forwomeninscience.com/). As part of the award, we created this [short film](https://www.youtube.com/watch?v=U9H18XO-DOA&ab_channel=MagdalenaBoch) showcasing my academic career and research in awake dog neuroimaging. The film offers a behind-the-scenes look at our work and aims to make science more accessible to the broader public.
