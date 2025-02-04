@@ -1,5 +1,5 @@
 ---
-title: Outreach (selection)
+title: Awards & honours
 cms_exclude: true
 
 # View.
