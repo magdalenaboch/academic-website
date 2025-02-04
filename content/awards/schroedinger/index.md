@@ -1,5 +1,5 @@
 ---
-title: Erwin Schrödinger fellowship, Austrian Science Fund (217,950€)
+title: Erwin Schroedinger fellowship, Austrian Science Fund (217,950€)
 summary: This [3-year fellowship](https://www.fwf.ac.at/en/research-radar/10.55776/J4828) at the University of Oxford will enable me to expand my research into brain organization across a diverse range of carnivoran species and humans. By examining how social behaviours have shaped brain architecture and function, this work will advance our understanding of the neural foundations and evolution of social cognition.
 
 
