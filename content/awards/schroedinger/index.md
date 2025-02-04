@@ -5,7 +5,7 @@ summary: This [3-year fellowship](https://www.fwf.ac.at/en/research-radar/10.557
 
 tags:
 - ""
-date: "2025-12-27T00:00:00Z"
+date: "2025-01-27T00:00:00Z"
 
 show_date: false
 

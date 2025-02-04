@@ -1,5 +1,5 @@
 ---
-title: For Women in Science Award 2024
+title: For Women in Science Award 2024 (24,000€)
 summary: In 2024, I have received the prestigious [L'Oréal-UNESCO Award for Women in Science](http://www.forwomeninscience.com/). The mission of the award is to support female scientists worldwide who are leading groundbreaking research across all STEM disciplines. Among the four women honoured with this prestigious award , I was recognized for my research into the neural and evolutionary basis of social cognition through comparative neuroimaging studies with dogs and humans, and for leading the methodological advancements that enabled this work. The award lead to several media reports and interviews; and we also created a [short image film](https://youtu.be/U9H18XO-DOA?si=aI6ktJ0akSnHvtP0) about my awake dog neuroimaging research - see  [outreach](https://magdalenaboch.com/#outreach) for more.
 
 
