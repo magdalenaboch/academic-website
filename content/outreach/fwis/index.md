@@ -1,7 +1,6 @@
 ---
 title: Imagefilm For Women in Science Award 2024
-summary: In 2024, I have received the prestigious [L'Oréal-UNESCO Award for Women in Science](http://www.forwomeninscience.com/). The mission of the award is to support female scientists worldwide who are leading groundbreaking research across all STEM disciplines. Among the four women honoured with this prestigious award , I was recognized for my research into the neural and evolutionary basis of social cognition through comparative neuroimaging studies with dogs and humans, and for leading the methodological advancements that enabled this work. As part of the award, we also created a short image film about my awake dog neuroimaging research.
-
+summary: In 2024, I received the prestigious [L'Oréal-UNESCO Award for Women in Science](http://www.forwomeninscience.com/). As part of the award, we created this short film showcasing my academic career and research in awake dog neuroimaging. The film offers a behind-the-scenes look at our work and aims to make science more accessible to the broader public.
 
 tags:
 - ""
@@ -13,7 +12,7 @@ show_date: false
 external_link: ""
 
 image:
-  caption: From the award ceremony with moderator Arabella Kiesbauer (left) and Ulrike Diebold (right) - vice president of the Austrian Academy of Sciences (c) Philipp Schulz - boxquadrat
+  caption: Scene from the image film shooting (c) FWIS
   focal_point: Smart
 
 #url_code: ""
@@ -29,4 +28,4 @@ url_video: "https://youtu.be/U9H18XO-DOA?si=aI6ktJ0akSnHvtP0"
 
 slides: ""
 ---
-In 2024, I have received the prestigious [L'Oréal-UNESCO Award for Women in Science](http://www.forwomeninscience.com/). The mission of the award is to support female scientists worldwide who are leading groundbreaking research across all STEM disciplines. Among the four women honoured with this prestigious award , I was recognized for my research into the neural and evolutionary basis of social cognition through comparative neuroimaging studies with dogs and humans, and for leading the methodological advancements that enabled this work. As part of the award, we also created a short image film about my awake dog neuroimaging research.
+In 2024, I received the prestigious [L'Oréal-UNESCO Award for Women in Science](http://www.forwomeninscience.com/). As part of the award, we created this short film showcasing my academic career and research in awake dog neuroimaging. The film offers a behind-the-scenes look at our work and aims to make science more accessible to the broader public.
