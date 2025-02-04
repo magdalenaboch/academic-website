@@ -1,5 +1,5 @@
 ---
-title: How dogs read human body language (Wie Hunde menschliche Körpersrache lesen)
+title: How dogs read human body language (Wie Hunde menschliche Körpersprache lesen)
 summary: My research revealing analogous animate- and body-sensitive regions in the dog and human temporal lobe (Boch et al. 2023 Comm Biol) was featured in ZIB 1 - Austria's flagship prime-time TV news program - with a short report and interview. Related [Science article](science.orf.at/stories/3220011/)
 
 
