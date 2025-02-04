@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Awards & honours
+title: Awards & fellowships
 subtitle: ''
 
 content:
