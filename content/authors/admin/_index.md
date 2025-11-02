@@ -88,8 +88,7 @@ email: ""
 # Highlight the author in author lists? (true/false) 
 highlight_name: true
 ---
-### Short Bio
-I am a postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/), University of Oxford, UK.
+I am currently a postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/), University of Oxford, UK. Beginning June 2026, I will start a tenure-track position as Assistant Professor of Social Cognition at the Faculty of Psychology and Messerli Research Institute, University of Vienna, where I will establish the Social Neuroecology Lab.
 
 **My research focuses on understanding brain diversity, driven by the central question of what makes us social**. Using a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species, while also exploring the factors that drive differences in brain organization. By integrating multiple non-invasive neuroimaging modalities, I investigate the evolution, structure, and function of the social brain, gaining insights into how social behaviours emerge.
 

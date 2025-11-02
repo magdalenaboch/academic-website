@@ -31,8 +31,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2024-12-01T00:00:00Z"
-doi: "10.1162/imag_a_00385"
+date: "2025-11-01T00:00:00Z"
+doi: "10.1101/2024.06.03.597118"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-11-01T00:00:00Z"
@@ -44,9 +44,9 @@ publishDate: "2024-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*eLife*'
+publication: 'reviewed preprint *eLife*'
 
-abstract: Carnivorans are an important study object for comparative neuroscience, as they exhibit a wide range of behaviours, ecological adaptations, and social structures. Previous studies have mainly examined relative brain size, but a comprehensive understanding of brain diversity requires the investigation of other aspects of their neuroanatomy. Here, we obtained primarily post-mortem brain scans from eighteen species of the order Carnivora, reconstructed their cortical surfaces, and examined neocortical sulcal anatomy to establish a framework for systematic inter-species comparisons. We observed distinct regional variations in sulcal anatomy, potentially related to the species’ behaviour and ecology. Arctoidea species with pronounced forepaw dexterity exhibited complex sulcal configurations in the presumed somatosensory cortex but low sulcal complexity in the presumed visual and auditory occipitotemporal cortex. Canidae had the largest number of unique major sulci with a unique sulcus in the occipital cortex and highly social canids featuring an additional frontal cortex sulcus. We also observed differentially complex occipito-temporal sulcal patterns in Felidae and Canidae, indicative of changes in auditory and visual areas that may be related to foraging strategies and social behaviour. In conclusion, this study presents an inventory of the sulcal anatomy of a number of rarely studied carnivoran brains and establishes a framework and novel avenues for further investigations employing a variety of neuroimaging modalities to reveal more about carnivoran brain diversity.
+abstract: Carnivorans are an important study object for comparative neuroscience, as they exhibit a wide range of behaviours, ecological adaptations, and social structures. Previous studies have mainly examined relative brain size, but a comprehensive understanding of brain diversity requires the investigation of other aspects of their neuroanatomy. Here, we obtained primarily post-mortem brain scans from twenty-six species of the order Carnivora, spanning across eight families with diverse representatives and including additional individuals for selected species, to create the largest Carnivoran brain collection to date. We then reconstructed their cortical surfaces, and examined neocortical sulcal anatomy to establish a framework for systematic inter-species comparisons. We observed distinct regional variations in sulcal anatomy, potentially related to the species’ behaviour and ecology. Arctoidea species with pronounced forepaw dexterity exhibited complex sulcal configurations in the presumed somatosensory cortex but low sulcal complexity in the presumed visual and auditory occipitotemporal cortex. Canidae had the largest number of unique major sulci with a unique sulcus in the occipital cortex and highly social canids featuring an additional frontal cortex sulcus. We also observed differentially complex occipito-temporal sulcal patterns in Felidae and Canidae, indicative of changes in auditory and visual areas that may be related to foraging strategies and social behaviour. In conclusion, this study presents an inventory of the sulcal anatomy of a number of rarely studied carnivoran brains including detailed digital atlases and establishes a framework and novel avenues for further investigations employing a variety of neuroimaging modalities to reveal more about carnivoran brain diversity.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -60,6 +60,9 @@ featured: false
 links:
 - name: 'Digital Brain Zoo'
   url: 'https://open.win.ox.ac.uk/DigitalBrainBank/#/datasets/zoo'
+
+- name: 'GitLab repository'
+  url: 'https://git.fmrib.ox.ac.uk/neuroecologylab/carnivore-surfaces'
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -69,7 +72,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Boch et al. 2024, eLife] (https://doi.org/10.7554/eLife.100851.1)'
+  caption: 'Image credit: [Boch et al. 2025, eLife] (https://doi.org/10.7554/eLife.100851.2)'
   focal_point: ""
   preview_only: false
 
