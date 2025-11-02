@@ -59,10 +59,6 @@ social:
   icon_pack: ai
   link: https://scholar.google.at/citations?user=-3iMARMAAAAJ&hl=de
 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/magdalenaboch
-
 - icon: orchid
   icon_pack: fab
   link: https://orcid.org/0000-0003-3627-5180
@@ -70,10 +66,6 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/d7m3g/
-
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/magdalenaboch
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
