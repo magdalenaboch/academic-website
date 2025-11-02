@@ -90,8 +90,7 @@ highlight_name: true
 ---
 I am currently a senior research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/), University of Oxford, UK. Beginning in June 2026, I will start a tenure-track position as Assistant Professor of Social Cognition at the [Faculty of Psychology](https://psychologie.univie.ac.at/en/) and the [Messerli Research Institute for Human-Animal Interaction](https://www.vetmeduni.ac.at/en/messerli), University of Vienna, where I will establish the **Social Neuroecology Lab**.
 
-**My research focuses on understanding brain diversity, driven by the central question: what makes us social?**  
-Using a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species, while exploring the factors that shape differences in brain organization. By integrating multiple non-invasive neuroimaging modalities, I investigate the evolution, structure, and function of the social brain to better understand how social behaviours emerge.
+**My research focuses on understanding brain diversity, driven by the central question: what makes us social?**  Using a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species, while exploring the factors that shape differences in brain organization. By integrating multiple non-invasive neuroimaging modalities, I investigate the evolution, structure, and function of the social brain to better understand how social behaviours emerge.
 
 Currently, my work focuses on humans, dogs, and other carnivoran species, with the long-term goal of extending this approach to a broader range of mammalian lineages.
 
