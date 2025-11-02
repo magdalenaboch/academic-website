@@ -88,13 +88,14 @@ email: ""
 # Highlight the author in author lists? (true/false) 
 highlight_name: true
 ---
-I am currently a postdoctoral research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/), University of Oxford, UK. Beginning June 2026, I will start a tenure-track position as Assistant Professor of Social Cognition at the Faculty of Psychology and Messerli Research Institute, University of Vienna, where I will establish the Social Neuroecology Lab.
+I am currently a senior research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/), University of Oxford, UK. Beginning in June 2026, I will start a tenure-track position as Assistant Professor of Social Cognition at the [Faculty of Psychology](https://psychologie.univie.ac.at/en/) and the [Messerli Research Institute for Human-Animal Interaction](https://www.vetmeduni.ac.at/en/messerli), University of Vienna, where I will establish the **Social Neuroecology Lab**.
 
-**My research focuses on understanding brain diversity, driven by the central question of what makes us social**. Using a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species, while also exploring the factors that drive differences in brain organization. By integrating multiple non-invasive neuroimaging modalities, I investigate the evolution, structure, and function of the social brain, gaining insights into how social behaviours emerge.
+**My research focuses on understanding brain diversity, driven by the central question: what makes us social?**  
+Using a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species, while exploring the factors that shape differences in brain organization. By integrating multiple non-invasive neuroimaging modalities, I investigate the evolution, structure, and function of the social brain to better understand how social behaviours emerge.
 
-Currently, my work focuses on humans, dogs, and other carnivoran species, with the ultimate goal of expanding this approach to encompass a broad range of mammalian species and lineages.
+Currently, my work focuses on humans, dogs, and other carnivoran species, with the long-term goal of extending this approach to a broader range of mammalian lineages.
 
-**Key research terms:**
-social cognition & behaviour, evolution of the social brain, human-animal relationship, non-invasive comparative neuroscience, neuroimaging methods, open (neuro)science
+**Key research terms:**  
+social cognition & behaviour, evolution of the social brain, human–animal relationships, non-invasive comparative neuroscience, neuroimaging methods, open (neuro)science
 
-You can find a detailed overview of my academic journey, research experience & publications in my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}}.
+You can watch a short [video teaser](https://youtu.be/q7H1dT4IU9w?si=Eg0VAY9eeVN032i3) about my research or download my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}} for a detailed overview of my academic journey, research experience, and publications.
