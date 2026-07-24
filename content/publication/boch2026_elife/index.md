@@ -31,8 +31,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2025-11-01T00:00:00Z"
-doi: "10.1101/2024.06.03.597118"
+date: "2026-01-01T00:00:00Z"
+doi: "10.7554/eLife.100851.3"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-11-01T00:00:00Z"
@@ -72,7 +72,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Boch et al. 2025, eLife] (https://doi.org/10.7554/eLife.100851.2)'
+  caption: 'Image credit: [Boch et al. 2025, eLife] (https://doi.org/10.7554/eLife.100851.3)'
   focal_point: ""
   preview_only: false
 

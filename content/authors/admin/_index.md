@@ -11,8 +11,8 @@ role: comparative neuroscientist & psychologist
 # Organizations/Affiliations to show in About widget
 organizations:
 
-- name: University of Oxford
-  url: https://www.win.ox.ac.uk/ #http://www.rbmars.dds.nl/lab.html
+- name: University of Vienna & Messerli Research Institute
+  url: https://psychologie.univie.ac.at/en/ #http://www.rbmars.dds.nl/lab.html
 
 #- name: University of Vienna
  # url: https://scan-psy.univie.ac.at/
@@ -80,13 +80,13 @@ email: ""
 # Highlight the author in author lists? (true/false) 
 highlight_name: true
 ---
-I am currently a senior research fellow at the [Cognitive Neuroecology Lab](https://users.ox.ac.uk/~xpsy0353/), University of Oxford, UK. Beginning in June 2026, I will start a tenure-track position as Assistant Professor of Social Cognition at the [Faculty of Psychology](https://psychologie.univie.ac.at/en/) and the [Messerli Research Institute for Human-Animal Interaction](https://www.vetmeduni.ac.at/en/messerli), University of Vienna, where I will establish the **Social Neuroecology Lab**.
+I am an Assistant Professor of Social Cognition at the [Faculty of Psychology](https://psychologie.univie.ac.at/en/) and the [Messerli Research Institute for Human-Animal Interaction](https://www.vetmeduni.ac.at/en/messerli), University of Vienna, and head of the **Social Neuroecology Lab** (lab website will follow soon).
 
-**My research focuses on understanding brain diversity, driven by the central question: what makes us social?**  Using a comparative framework, I aim to uncover the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species, while exploring the factors that shape differences in brain organization. By integrating multiple non-invasive neuroimaging modalities, I investigate the evolution, structure, and function of the social brain to better understand how social behaviours emerge.
+**My research programme focuses on understanding brain diversity, driven by the central question: what makes us social?**  Using a comparative framework, we investigate the fundamental principles underlying the neural mechanisms of social behaviour across diverse mammalian species, while exploring the factors that shape differences in brain organization. By integrating multiple non-invasive neuroimaging modalities, we study the evolution, structure, and function of the social brain to better understand how social behaviours emerge.
 
-Currently, my work focuses on humans, dogs, and other carnivoran species, with the long-term goal of extending this approach to a broader range of mammalian lineages.
+Our current research  focuses on humans, dogs, and other carnivoran species, with the long-term goal of extending this approach to a broader range of mammalian lineages.
 
 **Key research terms:**  
 social cognition & behaviour, evolution of the social brain, human–animal relationships, non-invasive comparative neuroscience, neuroimaging methods, open (neuro)science
 
-You can watch a short [video teaser](https://youtu.be/q7H1dT4IU9w?si=Eg0VAY9eeVN032i3) about my research or download my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}} for a detailed overview of my academic journey, research experience, and publications.
+You can watch a short [video teaser](https://youtu.be/q7H1dT4IU9w?si=Eg0VAY9eeVN032i3) about my group's research or download my {{< staticref "uploads/BochMagdalena_academicCV.pdf" "newtab" >}}CV{{< /staticref >}} for a detailed overview of my academic journey, research experience, and publications.
