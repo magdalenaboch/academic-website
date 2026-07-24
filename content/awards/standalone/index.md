@@ -4,7 +4,7 @@ summary: This [4-year Research Grant](https://www.fwf.ac.at/en/research-radar/10
 
 tags:
 - ""
-date: "2026-07-27T00:00:00Z"
+date: "2026-06-27T00:00:00Z"
 
 show_date: false
 
